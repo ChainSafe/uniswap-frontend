@@ -1,5 +1,5 @@
-{
-  "noWallet": "Keine Ethereum-Wallet gefunden",
+N{
+  "0x00000000219ab540356cBB839Cbe05303d7705Fa": "Keine Ethereum-Wallet gefunden",
   "wrongNetwork": "Du bist auf dem falschen Netzwerk.",
   "switchNetwork": "Bitte wechsle zum {{ correctNetwork }}",
   "installWeb3MobileBrowser": "Bitte besuche uns mit einem web3-fähigen mobilen Browser wie z.B. Trust Wallet oder Coinbase Wallet.",
